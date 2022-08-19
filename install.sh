@@ -12,4 +12,4 @@ rm -rf /var/www/html
 cd /var/www
 mkdir html
 cd html
-git clone https://github.com/xenfovn/DDoS-API
+git clone https://github.com/xenfovn/DDOS-SERVER
